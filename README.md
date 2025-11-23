@@ -1,3 +1,5 @@
+here is the preview - https://qr-gen-saswat.netlify.app/
+
 This is a small project I made while learning HTML, CSS and a bit of JavaScript.
 The idea was simple, type anything and it makes a QR code for it.
 
@@ -23,4 +25,5 @@ some improvements i will make in future:
 - give an option to download the QR
 - will add better animations
 - provide more color options
+
 - Cleaner and more professional looking UI
